@@ -5,11 +5,11 @@
 ## Features 📋
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5 & CSS3\
-⚡️ One Page Layout
+⚡️ One Page Layout\
 ⚡️ Easy to modify
 
 ## Sections 📚
-✔️ About me\
+✔️ About Me\
 ✔️ Skills \
 ✔️ Experience\
 ✔️ Contact Info\
