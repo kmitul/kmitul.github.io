@@ -13,5 +13,3 @@
 ✔️ Skills \
 ✔️ Experience\
 ✔️ Contact Info
-
-To view it, **[click here](https://kmitul.github.io/)**
